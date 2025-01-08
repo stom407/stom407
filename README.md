@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 🌱 I’m currently learning about git in January 🥶
+I’m currently learning about git in January 🥶
 <!--
 **stom407/stom407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
