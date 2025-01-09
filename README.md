@@ -9,6 +9,18 @@ I’m currently learning about git in January 🥶
 </picture>
 
 
+## About me
+Hi I'm stom407 and I am learning about GitHub!
+
+| Rank | FAVORITE BBQ |
+|-----:|---------------|
+|     1| Brisket|
+|     2| Sausage|
+|     3| Chicken|
+
+
+
+
 <!--
 **stom407/stom407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
