@@ -21,7 +21,7 @@ Hi I'm stom407 and I am learning about GitHub!
 
 ### Testing collapsed section
 
-<details>
+<details open>
 <summary>My top BBQ</summary>
 
 | Rank | FAVORITE BBQ |
