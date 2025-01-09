@@ -31,7 +31,7 @@ Hi I'm stom407 and I am learning about GitHub!
 |     3| Chicken|
 
 </details>
-
+---
 
 <!--
 **stom407/stom407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
