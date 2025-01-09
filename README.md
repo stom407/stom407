@@ -31,6 +31,7 @@ Hi I'm stom407 and I am learning about GitHub!
 |     3| Chicken|
 
 </details>
+
 ---
 
 <!--
