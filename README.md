@@ -37,6 +37,19 @@ Hi I'm stom407 and I am learning about GitHub!
 > It's a long way to the top if you want to rock & roll.
 - somebody
 
+## Testing mermaid flow chart.
+
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+---
+
 <!-- I'm testing a comment -->  
 <!--
 **stom407/stom407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
